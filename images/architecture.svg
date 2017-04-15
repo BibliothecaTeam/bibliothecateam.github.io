@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1100 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="Layer-1" transform="matrix(1,0,0,1,166.35,183.932)">
+        <g id="rect3498" transform="matrix(0.992606,0,0,1,-0.183724,43.55)">
+            <rect x="493.952" y="330.101" width="372.402" height="290.223" style="fill:rgb(242,242,242);stroke:rgb(153,153,153);stroke-width:0.88px;"/>
+        </g>
+        <g id="rect3498-5" transform="matrix(1,0,0,0.570141,-6.25445,174.496)">
+            <rect x="493.617" y="15.502" width="372.402" height="290.223" style="fill:rgb(242,242,242);stroke:rgb(153,153,153);stroke-width:1.04px;"/>
+        </g>
+        <g id="rect3498-51" transform="matrix(1,0,0,1.05324,-6.25445,-163.122)">
+            <rect x="493.617" y="15.502" width="372.402" height="290.223" style="fill:rgb(242,242,242);stroke:rgb(153,153,153);stroke-width:0.88px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-144.686,-80.882)">
+            <path d="M433.374,634.346L433.374,704.804L443.913,704.804" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:4,4,0,0;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-144.686,-80.882)">
+            <path d="M401.344,634.346L401.344,704.804L382.945,704.804" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:4,4,0,0;"/>
+        </g>
+        <g id="g3720" transform="matrix(1,0,0,1,-160.331,158.247)">
+            <g id="g4144-7" transform="matrix(1.16343,0,0,1.16688,296.997,-10.932)">
+                <g id="path4138-7" transform="matrix(0,0.368686,-0.423043,0,255.141,266.57)">
+                    <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:none;stroke:rgb(68,170,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+                </g>
+                <path id="path4140-4" d="M65.754,280.822L115.83,255.555L165.298,280.517L116.591,301.978L65.754,280.822Z" style="fill:rgb(68,170,0);stroke:rgb(68,170,0);stroke-width:1px;stroke-linejoin:round;"/>
+            </g>
+            <g id="text4229-30-2" transform="matrix(1,0,0,1,384.775,371.386)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(51,128,0);">SOURCE CONTROL</text>
+            </g>
+            <g id="text4229-3-3-1" transform="matrix(1,0,0,1,398.023,358.862)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">GIT WITCHER</text>
+            </g>
+        </g>
+        <g id="g4144" transform="matrix(1.16343,0,0,1.16688,136.666,-70.974)">
+            <g id="path4138" transform="matrix(0,0.368686,-0.423043,0,255.141,266.57)">
+                <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:none;stroke:rgb(68,170,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+            </g>
+            <path id="path4140" d="M65.754,280.822L115.83,255.555L165.298,280.517L116.591,301.978L65.754,280.822Z" style="fill:rgb(68,170,0);stroke:rgb(68,170,0);stroke-width:1px;stroke-linejoin:round;"/>
+        </g>
+        <g id="g3557" transform="matrix(1,0,0,1,-2.83269,-81.858)">
+            <path id="rect4150" d="M224.144,358.198C224.144,354.335 221.007,351.198 217.144,351.198L195.295,351.198C191.432,351.198 188.295,354.335 188.295,358.198L188.295,375.758C188.295,379.621 191.432,382.758 195.295,382.758L217.144,382.758C221.007,382.758 224.144,379.621 224.144,375.758L224.144,358.198Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+            <g id="text4152" transform="matrix(1,0,0,1,192.657,365.476)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;">REST</text>
+            </g>
+            <g id="text4156" transform="matrix(1,0,0,1,196.558,375.535)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;fill:rgb(51,128,0);">API</text>
+            </g>
+        </g>
+        <g id="g4144-2" transform="matrix(1.16343,0,0,1.16688,-116.801,-70.7)">
+            <g id="path4138-5" transform="matrix(0,0.368686,-0.423043,0,255.141,266.57)">
+                <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:none;stroke:rgb(68,170,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+            </g>
+            <path id="path4140-2" d="M65.754,280.822L115.83,255.555L165.298,280.517L116.591,301.978L65.754,280.822Z" style="fill:rgb(68,170,0);stroke:rgb(68,170,0);stroke-width:1px;stroke-linejoin:round;"/>
+        </g>
+        <g id="rect4150-20" transform="matrix(1,0,0,1,-3.83595,43.55)">
+            <path d="M86.577,232.028C86.577,229.82 84.785,228.028 82.577,228.028L73.301,228.028C71.093,228.028 69.301,229.82 69.301,232.028L69.301,241.304C69.301,243.512 71.093,245.304 73.301,245.304L82.577,245.304C84.785,245.304 86.577,243.512 86.577,241.304L86.577,232.028Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+        <g id="text4229" transform="matrix(1,0,0,1,-0.467952,310.812)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(51,128,0);">WEB UI</text>
+        </g>
+        <g id="text4229-3" transform="matrix(1,0,0,1,-1.71885,298.288)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">CLIENT</text>
+        </g>
+        <g id="text4229-30" transform="matrix(1,0,0,1,251.18,311.344)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(51,128,0);">SERVICE</text>
+        </g>
+        <g id="text4229-3-3" transform="matrix(1,0,0,1,246.222,298.82)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">GATEWAY</text>
+        </g>
+        <g id="path4488" transform="matrix(1,0,0,1,-6.25445,-26.2751)">
+            <path d="M637.496,96.405L720.767,96.405" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;stroke-dasharray:4,4;"/>
+        </g>
+        <g>
+            <g>
+                <g id="path4138-71" transform="matrix(0,0.430212,-0.492181,0,735.847,20.9851)">
+                    <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:white;stroke:rgb(68,170,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+                </g>
+                <g id="path4140-41" transform="matrix(1.16343,0,0,1.16688,439.009,-290.07)">
+                    <path d="M65.754,280.822L115.83,255.555L165.298,280.517L116.591,301.978L65.754,280.822Z" style="fill:rgb(68,170,0);stroke:rgb(68,170,0);stroke-width:1px;stroke-linejoin:round;"/>
+                </g>
+            </g>
+            <g id="text4229-30-21" transform="matrix(1,0,0,1,552.292,92.2479)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(51,128,0);">INDEXER</text>
+            </g>
+            <g id="text4229-3-3-11" transform="matrix(1,0,0,1,534.92,79.7239)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">AZURE SEARCH</text>
+            </g>
+        </g>
+        <g>
+            <g id="path4148" transform="matrix(1,0,0,1,134.472,-182.797)">
+                <circle cx="637.913" cy="251.59" r="57.672" style="fill:white;stroke:rgb(255,102,0);stroke-width:4px;stroke-linejoin:round;"/>
+            </g>
+            <g id="text4229-3-3-7" transform="matrix(1,0,0,1,732.611,71.5799)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">AZURE SEARCH</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-181.997,-91.4124)">
+            <g id="rect4150-4-0-9-6-5-1" transform="matrix(1,0,0,1,-612.387,-544.496)">
+                <path d="M855.55,499.114C855.55,493.594 851.069,489.114 845.55,489.114L746.119,489.114C740.6,489.114 736.119,493.594 736.119,499.114L736.119,533.917C736.119,539.437 740.6,543.917 746.119,543.917L845.55,543.917C851.069,543.917 855.55,539.437 855.55,533.917L855.55,499.114Z" style="fill:white;stroke:rgb(255,102,0);stroke-width:3px;stroke-linejoin:round;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,162.665,-31.1592)">
+                <g id="text4229-3-8-6-1-3">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">CONSUL</text>
+                </g>
+            </g>
+            <g id="g5206" transform="matrix(1,0,0,1,-485.852,-541.306)">
+                <path id="rect4150-4-0-7-4-4-2" d="M747.307,502.793C747.307,498.93 744.171,495.793 740.307,495.793L718.458,495.793C714.595,495.793 711.458,498.93 711.458,502.793L711.458,520.353C711.458,524.216 714.595,527.353 718.458,527.353L740.307,527.353C744.171,527.353 747.307,524.216 747.307,520.353L747.307,502.793Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+                <g id="text4152-8-3-8-4-3-2" transform="matrix(1,0,0,1,715.82,510.071)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;">REST</text>
+                </g>
+                <g id="text4156-0-8-2-7-8-7" transform="matrix(1,0,0,1,719.721,520.13)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;fill:rgb(255,102,0);">API</text>
+                </g>
+            </g>
+            <g id="text4229-301" transform="matrix(1,0,0,1,140.549,-17.1572)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(51,128,0);">SERVICE DISCO.</text>
+            </g>
+        </g>
+        <g id="rect4150-20-0-7" transform="matrix(1,0,0,1,-3.83595,43.55)">
+            <path d="M310.925,189.177C310.925,186.969 309.133,185.177 306.925,185.177L297.648,185.177C295.441,185.177 293.648,186.969 293.648,189.177L293.648,198.453C293.648,200.661 295.441,202.453 297.648,202.453L306.925,202.453C309.133,202.453 310.925,200.661 310.925,198.453L310.925,189.177Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+        <g id="path4490" transform="matrix(1,0,0,1,-3.83595,43.55)">
+            <path d="M635.49,408.419L717.757,408.419" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;stroke-dasharray:4,4;"/>
+        </g>
+        <g id="path4492" transform="matrix(1,0,0,1,-3.83595,43.55)">
+            <path d="M634.486,548.876L716.754,548.876" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;stroke-dasharray:4,4;"/>
+        </g>
+        <g>
+            <g>
+                <g id="path4138-7-7" transform="matrix(0,0.430212,-0.492181,0,736.432,543.274)">
+                    <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:white;stroke:rgb(68,170,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+                </g>
+                <g id="path4140-4-5" transform="matrix(1.16343,0,0,1.16688,439.593,232.219)">
+                    <path d="M65.754,280.822L115.83,255.555L165.298,280.517L116.591,301.978L65.754,280.822Z" style="fill:rgb(68,170,0);stroke:rgb(68,170,0);stroke-width:1px;stroke-linejoin:round;"/>
+                </g>
+            </g>
+            <g id="text4229-30-2-3" transform="matrix(1,0,0,1,542.019,614.537)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(51,128,0);">DEPOSITORY</text>
+            </g>
+            <g id="text4229-3-3-1-6" transform="matrix(1,0,0,1,531.674,602.013)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">AZURE STORAGE</text>
+            </g>
+        </g>
+        <g>
+            <g id="path4148-1" transform="matrix(1,0,0,1,134.066,417.62)">
+                <circle cx="637.913" cy="171.392" r="57.672" style="fill:white;stroke:rgb(255,102,0);stroke-width:4px;stroke-linejoin:round;"/>
+            </g>
+            <g id="text4229-3-3-7-2" transform="matrix(1,0,0,1,729.365,594.77)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">AZURE STORAGE</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <g id="path4138-7-7-0" transform="matrix(0,0.430212,-0.492181,0,736.432,405.65)">
+                    <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:white;stroke:rgb(68,170,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+                </g>
+                <g id="path4140-4-5-6" transform="matrix(1.16343,0,0,1.16688,439.593,94.5949)">
+                    <path d="M65.754,280.822L115.83,255.555L165.298,280.517L116.591,301.978L65.754,280.822Z" style="fill:rgb(68,170,0);stroke:rgb(68,170,0);stroke-width:1px;stroke-linejoin:round;"/>
+                </g>
+            </g>
+            <g id="text4229-30-2-3-2" transform="matrix(1,0,0,1,542.019,476.913)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(51,128,0);">DEPOSITORY</text>
+            </g>
+            <g id="text4229-3-3-1-6-1" transform="matrix(1,0,0,1,542.421,464.389)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">FILE SYSTEM</text>
+            </g>
+        </g>
+        <g>
+            <g id="path4148-1-9" transform="matrix(1,0,0,1,134.065,279.996)">
+                <circle cx="637.913" cy="171.392" r="57.672" style="fill:white;stroke:rgb(255,102,0);stroke-width:4px;stroke-linejoin:round;"/>
+            </g>
+            <g id="text4229-3-3-7-2-2" transform="matrix(1,0,0,1,740.769,457.146)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">FILESYSTEM</text>
+            </g>
+        </g>
+        <g id="g3557-9" transform="matrix(1,0,0,1,278.396,44.6491)">
+            <path id="rect4150-2" d="M224.144,358.213C224.144,354.341 221,351.198 217.129,351.198L195.31,351.198C191.438,351.198 188.295,354.341 188.295,358.213L188.295,375.742C188.295,379.614 191.438,382.758 195.31,382.758L217.129,382.758C221,382.758 224.144,379.614 224.144,375.742L224.144,358.213Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+            <g id="text4152-2" transform="matrix(1,0,0,1,192.657,365.476)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;">REST</text>
+            </g>
+            <g id="text4156-9" transform="matrix(1,0,0,1,196.558,375.535)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;fill:rgb(51,128,0);">API</text>
+            </g>
+        </g>
+        <g id="rect4150-20-0-7-9" transform="matrix(1,0,0,1,-3.83595,43.55)">
+            <path d="M311.507,281.835C311.507,279.628 309.715,277.835 307.507,277.835L298.231,277.835C296.023,277.835 294.231,279.628 294.231,281.835L294.231,291.112C294.231,293.319 296.023,295.112 298.231,295.112L307.507,295.112C309.715,295.112 311.507,293.319 311.507,291.112L311.507,281.835Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+        <g id="path3629" transform="matrix(1,0,0,1,-3.83595,158.135)">
+            <path d="M302.286,70.592L302.219,56.497L473.403,55.771" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;"/>
+        </g>
+        <g id="g4332" transform="matrix(1,0,0,1,-253.298,-70.841)">
+            <g id="path4138-6-6" transform="matrix(0,0.430212,-0.492181,0,433.336,529.212)">
+                <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:none;stroke:rgb(255,102,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+            </g>
+            <path id="path4140-7-0" d="M212.997,545.841L271.257,516.358L328.809,545.486L272.143,570.529L212.997,545.841Z" style="fill:rgb(255,102,0);stroke:rgb(255,102,0);stroke-width:1.17px;stroke-linejoin:round;"/>
+            <g id="text4229-7-6" transform="matrix(1,0,0,1,255.254,600.494)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(255,102,0);">SCRIPT</text>
+            </g>
+            <g id="text4229-3-9-6" transform="matrix(1,0,0,1,239.149,587.97)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">BASH CLIENT</text>
+            </g>
+        </g>
+        <g id="rect4150-20-6" transform="matrix(1,0,0,1,-2.7385,-37.082)">
+            <path d="M224.543,529.939C224.543,527.731 222.75,525.939 220.543,525.939L211.266,525.939C209.059,525.939 207.266,527.731 207.266,529.939L207.266,539.215C207.266,541.423 209.059,543.215 211.266,543.215L220.543,543.215C222.75,543.215 224.543,541.423 224.543,539.215L224.543,529.939Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+        <g id="text4270-7" transform="matrix(1,0,0,1,119.083,270.487)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12.5px;fill:rgb(102,102,102);">&lt;jwt&gt;</text>
+        </g>
+        <g id="text4270-3-2" transform="matrix(1,0,0,1,159.721,398.689)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12.5px;fill:rgb(102,102,102);">&lt;custom&gt;</text>
+        </g>
+        <g id="text4270-3-21" transform="matrix(1,0,0,1,45.3243,399.348)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12.5px;fill:rgb(102,102,102);">&lt;custom&gt;</text>
+        </g>
+        <g id="text4270-3-2-1" transform="matrix(1,0,0,1,342.741,401.558)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12.5px;fill:rgb(102,102,102);">&lt;jwt/custom&gt;</text>
+        </g>
+        <g id="text4270-3-2-1-7" transform="matrix(1,0,0,1,342.741,204.197)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12.5px;fill:rgb(102,102,102);">&lt;jwt/custom&gt;</text>
+        </g>
+        <g id="g4332-9" transform="matrix(1,0,0,1,-260.307,-508.226)">
+            <g id="path4138-6-6-3" transform="matrix(0,0.430212,-0.492181,0,433.336,529.212)">
+                <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:none;stroke:rgb(255,102,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+            </g>
+            <path id="path4140-7-0-6" d="M212.997,545.841L271.257,516.358L328.809,545.486L272.143,570.529L212.997,545.841Z" style="fill:rgb(255,102,0);stroke:rgb(255,102,0);stroke-width:1.17px;stroke-linejoin:round;"/>
+            <g id="text4229-7-6-0" transform="matrix(1,0,0,1,244.985,600.494)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(255,102,0);">OAUTH 2.0</text>
+            </g>
+            <g id="text4229-3-9-6-2" transform="matrix(1,0,0,1,247.707,586.818)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">AZURE AD</text>
+            </g>
+        </g>
+        <g id="rect4150-20-0-1" transform="matrix(1,0,0,1,-3.83595,43.55)">
+            <path d="M-30.064,232.223C-30.064,230.016 -31.856,228.223 -34.064,228.223L-43.34,228.223C-45.548,228.223 -47.34,230.016 -47.34,232.223L-47.34,241.5C-47.34,243.708 -45.548,245.5 -43.34,245.5L-34.064,245.5C-31.856,245.5 -30.064,243.708 -30.064,241.5L-30.064,232.223Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.685,41.5941)">
+            <g id="rect4150-2-7" transform="matrix(1,0,0,1,-3.83595,43.55)">
+                <path d="M-33.82,-27.75C-33.82,-31.613 -36.957,-34.75 -40.82,-34.75L-62.669,-34.75C-66.532,-34.75 -69.669,-31.613 -69.669,-27.75L-69.669,-10.19C-69.669,-6.327 -66.532,-3.19 -62.669,-3.19L-40.82,-3.19C-36.957,-3.19 -33.82,-6.327 -33.82,-10.19L-33.82,-27.75Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+            </g>
+            <g id="text4156-9-0" transform="matrix(1,0,0,1,-64.2387,28.1207)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;fill:rgb(255,102,0);">API</text>
+            </g>
+        </g>
+        <g id="path4480" transform="matrix(1,0,0,0.831833,-3.83595,83.5509)">
+            <path d="M-48.735,237.865L-104.917,237.865L-104.917,-20.977L-72.354,-20.977" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;stroke-dasharray:4,4,0,0;"/>
+        </g>
+        <g id="path4596" transform="matrix(1,0,0,1,-3.83595,43.55)">
+            <path d="M301.588,295.051L301.588,368.289L469.133,368.289" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;"/>
+        </g>
+        <g id="path4598" transform="matrix(1,0,0,1,-3.83595,43.55)">
+            <path d="M87.012,236.862L189.461,236.862" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;"/>
+        </g>
+        <g id="path4600" transform="matrix(1,0,0,0.699189,-3.83595,123.712)">
+            <path d="M208.364,534.595L155.112,533.827L155.112,243.884L189.298,243.565" style="fill:none;stroke:rgb(102,102,102);stroke-width:1.16px;"/>
+        </g>
+        <g id="path46001" transform="matrix(1.52598,0,0,0.716343,-112.863,112.986)">
+            <path d="M129.105,536.766L155.112,536.766L155.112,243.884L195.497,244.091" style="fill:none;stroke:rgb(102,102,102);stroke-width:0.84px;"/>
+        </g>
+        <g>
+            <g>
+                <g id="path4138-72" transform="matrix(0,0.430212,-0.492181,0,735.847,-117.377)">
+                    <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:white;stroke:rgb(68,170,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+                </g>
+                <g id="path4140-42" transform="matrix(1.16343,0,0,1.16688,439.009,-428.432)">
+                    <path d="M65.754,280.822L115.83,255.555L165.298,280.517L116.591,301.978L65.754,280.822Z" style="fill:rgb(68,170,0);stroke:rgb(68,170,0);stroke-width:1px;stroke-linejoin:round;"/>
+                </g>
+            </g>
+            <g id="text4229-30-22" transform="matrix(1,0,0,1,552.292,-46.1138)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(51,128,0);">INDEXER</text>
+            </g>
+            <g id="text4229-3-3-12" transform="matrix(1,0,0,1,532.367,-58.6378)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">NIGHTCRAWLER</text>
+            </g>
+        </g>
+        <g id="rect4150-20-61" transform="matrix(1,0,0,1,-140.393,-37.082)">
+            <path d="M224.543,529.939C224.543,527.731 222.75,525.939 220.543,525.939L211.266,525.939C209.059,525.939 207.266,527.731 207.266,529.939L207.266,539.215C207.266,541.423 209.059,543.215 211.266,543.215L220.543,543.215C222.75,543.215 224.543,541.423 224.543,539.215L224.543,529.939Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+        <g id="g4715-9-71" transform="matrix(0.554045,0,0,0.554045,-147.239,529.386)">
+            <circle id="path4148-1-91" cx="637.913" cy="171.392" r="57.672" style="fill:none;stroke:rgb(255,102,0);stroke-width:7.22px;stroke-linejoin:round;"/>
+            <circle id="path4148-1-92" cx="637.913" cy="171.392" r="57.672" style="fill:none;stroke:rgb(255,102,0);stroke-width:7.22px;stroke-linejoin:round;"/>
+            <g id="text4229-3-3-7-2-21" transform="matrix(1,0,0,1,601.962,177.15)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:18.049px;">GITHUB</text>
+            </g>
+        </g>
+        <g id="g4715-9-72" transform="matrix(0.554045,0,0,0.554045,-22.2532,529.386)">
+            <circle id="path4148-1-93" cx="637.913" cy="171.392" r="57.672" style="fill:none;stroke:rgb(255,102,0);stroke-width:7.22px;stroke-linejoin:round;"/>
+            <circle id="path4148-1-94" cx="637.913" cy="171.392" r="57.672" style="fill:none;stroke:rgb(255,102,0);stroke-width:7.22px;stroke-linejoin:round;"/>
+            <g id="text4229-3-3-7-2-22" transform="matrix(1,0,0,1,587.883,177.15)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:18.049px;">VS ONLINE</text>
+            </g>
+        </g>
+        <g transform="matrix(-1.83697e-16,1,-1,-1.83697e-16,922.887,-117.3)">
+            <text x="497.338px" y="55.723px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(128,128,128);">DEPOSITORY</text>
+        </g>
+        <g transform="matrix(-1.83697e-16,1,-1,-1.83697e-16,922.887,-632.337)">
+            <text x="497.338px" y="55.723px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(128,128,128);">INDEXER</text>
+        </g>
+        <g id="path44881" transform="matrix(1,0,0,1,-6.25445,168.032)">
+            <path d="M637.496,96.405L720.767,96.405" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;stroke-dasharray:4,4;"/>
+        </g>
+        <g>
+            <g>
+                <g id="path4138-711" transform="matrix(0,0.430212,-0.492181,0,735.847,215.293)">
+                    <path d="M172.414,446.759L105.023,446.603L37.632,446.586L4.072,388.147L-29.609,329.776L4.221,271.492L37.931,213.138L105.322,213.294L172.712,213.31L206.273,271.75L239.954,330.121L206.124,388.405L172.414,446.759Z" style="fill:white;stroke:rgb(68,170,0);stroke-width:10.13px;stroke-linejoin:round;"/>
+                </g>
+                <g id="path4140-411" transform="matrix(1.16343,0,0,1.16688,439.009,-95.7627)">
+                    <path d="M65.754,280.822L115.83,255.555L165.298,280.517L116.591,301.978L65.754,280.822Z" style="fill:rgb(68,170,0);stroke:rgb(68,170,0);stroke-width:1px;stroke-linejoin:round;"/>
+                </g>
+            </g>
+            <g id="text4229-30-211" transform="matrix(1,0,0,1,530.546,287.447)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(51,128,0);">AUTHORIZATION</text>
+            </g>
+            <g id="text4229-3-3-111" transform="matrix(1,0,0,1,547.12,273.295)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">HEIMDALL</text>
+            </g>
+        </g>
+        <g>
+            <g id="path41481" transform="matrix(1,0,0,1,134.472,11.5103)">
+                <circle cx="637.913" cy="251.59" r="57.672" style="fill:white;stroke:rgb(255,102,0);stroke-width:4px;stroke-linejoin:round;"/>
+            </g>
+            <g id="text4229-3-3-71" transform="matrix(1,0,0,1,732.611,265.887)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;">DOCUMENT DB</text>
+            </g>
+        </g>
+        <g id="rect4150-20-0-71" transform="matrix(1,0,0,1,-58.838,43.55)">
+            <path d="M310.925,189.177C310.925,186.969 309.133,185.177 306.925,185.177L297.648,185.177C295.441,185.177 293.648,186.969 293.648,189.177L293.648,198.453C293.648,200.661 295.441,202.453 297.648,202.453L306.925,202.453C309.133,202.453 310.925,200.661 310.925,198.453L310.925,189.177Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+        <g id="path36291" transform="matrix(1.32912,0,0,2.46606,-158.236,-114.218)">
+            <path d="M302.219,139.066L302.219,95.99L472.249,95.99" style="fill:none;stroke:rgb(102,102,102);stroke-width:0.5px;"/>
+        </g>
+        <g id="text4270-3-2-1-71" transform="matrix(1,0,0,1,342.741,109.958)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12.5px;fill:rgb(102,102,102);">&lt;jwt/custom&gt;</text>
+        </g>
+        <g id="g3557-3" transform="matrix(1,0,0,1,281.143,-244.478)">
+            <path id="rect4150-6" d="M224.144,358.198C224.144,354.335 221.007,351.198 217.144,351.198L195.295,351.198C191.432,351.198 188.295,354.335 188.295,358.198L188.295,375.758C188.295,379.621 191.432,382.758 195.295,382.758L217.144,382.758C221.007,382.758 224.144,379.621 224.144,375.758L224.144,358.198Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+            <g id="text4152-1" transform="matrix(1,0,0,1,192.657,365.476)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;">REST</text>
+            </g>
+            <g id="text4156-93" transform="matrix(1,0,0,1,196.558,375.535)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;fill:rgb(51,128,0);">API</text>
+            </g>
+        </g>
+        <g transform="matrix(-1.83697e-16,1,-1,-1.83697e-16,922.887,-302.309)">
+            <text x="497.338px" y="55.723px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(128,128,128);">AUTHORIZATION</text>
+        </g>
+        <g id="rect4150-20-0-72" transform="matrix(1,0,0,1,213.222,-274.641)">
+            <path d="M310.925,189.177C310.925,186.969 309.133,185.177 306.925,185.177L297.648,185.177C295.441,185.177 293.648,186.969 293.648,189.177L293.648,198.453C293.648,200.661 295.441,202.453 297.648,202.453L306.925,202.453C309.133,202.453 310.925,200.661 310.925,198.453L310.925,189.177Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-166.35,-183.932)">
+            <path d="M369.737,453.272L372.601,103.106L671.637,103.106" style="fill:none;stroke:rgb(102,102,102);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="g3557-31" transform="matrix(1,0,0,1,281.143,-152.046)">
+            <path id="rect4150-61" d="M224.144,358.198C224.144,354.335 221.007,351.198 217.144,351.198L195.295,351.198C191.432,351.198 188.295,354.335 188.295,358.198L188.295,375.758C188.295,379.621 191.432,382.758 195.295,382.758L217.144,382.758C221.007,382.758 224.144,379.621 224.144,375.758L224.144,358.198Z" style="fill:white;stroke:rgb(103,108,83);stroke-width:2px;stroke-linejoin:round;"/>
+            <g id="text4152-11" transform="matrix(1,0,0,1,192.657,365.476)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;">REST</text>
+            </g>
+            <g id="text4156-931" transform="matrix(1,0,0,1,196.558,375.535)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:10px;fill:rgb(51,128,0);">API</text>
+            </g>
+        </g>
+    </g>
+</svg>
