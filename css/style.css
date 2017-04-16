@@ -135,7 +135,10 @@ body {
     width: auto;
 }
 
-.container img {
+.custom-img-width {
     max-width: 80%;
+}
+
+.container img {
     padding-bottom: 30px;
 }

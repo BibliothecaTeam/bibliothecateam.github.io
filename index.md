@@ -2,12 +2,17 @@
 
 ## Screenshots
 
-![Screen main](images/screen01.png) ![Screen documentation](images/screen02.png)
+{: .custom-img-width}
+![Screen main](images/screen01.png) 
+
+{: .custom-img-width}
+![Screen documentation](images/screen02.png)
 
 ## Architecture
 
 Application is diviaded for a few microservices. Most of the application was created as a ASP.NET Core 1 Web application. Client application is Angular 2 application.
 
+{: .custom-img-width}
 ![Main page](images/architecture.png)
 
 ## Continuous Integration
