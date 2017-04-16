@@ -14,6 +14,7 @@ Application is diviaded for a few microservices. Most of the application was cre
 
 ### Services
 
+{: .table .table-striped}
 | project                                                                                                                     | branch  | status                                                                                                                                                                                                                                    |
 |-----------------------------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Bibliotheca.Server.Gateway](https://github.com/BibliothecaTeam/Bibliotheca.Server.Gateway)                                 | master  | [![Build status](https://img.shields.io/appveyor/ci/marcinczachurski/bibliotheca-server-gateway/master.svg)](https://ci.appveyor.com/project/marcinczachurski/bibliotheca-server-gateway/branch/master)                                   |
@@ -37,6 +38,7 @@ Application is diviaded for a few microservices. Most of the application was cre
 
 ### Libraries
 
+{: .table .table-striped}
 | project                                                                                                                     | branch  | status                                                                                                                                                                                                                                    |
 |-----------------------------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Bibliotheca.Server.Mvc.Middleware](https://github.com/BibliothecaTeam/Bibliotheca.Server.Mvc.Middleware)                   | master  | [![Build status](https://img.shields.io/appveyor/ci/marcinczachurski/bibliotheca-server-mvc-middleware/master.svg)](https://ci.appveyor.com/project/marcinczachurski/bibliotheca-server-mvc-middleware/branch/master)                     |
@@ -47,6 +49,7 @@ Application is diviaded for a few microservices. Most of the application was cre
 
 ## Nugets
 
+{: .table .table-striped}
 | assembly                                          | nuget                                                                                                                                                                               |
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Bibliotheca.Server.Mvc.Middleware.Authorization   | [![Nuget](https://img.shields.io/nuget/v/Bibliotheca.Server.Mvc.Middleware.Authorization.svg)](https://www.nuget.org/packages/Bibliotheca.Server.Mvc.Middleware.Authorization/)     |
