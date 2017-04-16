@@ -135,7 +135,7 @@ body {
     width: auto;
 }
 
-.custom-img-width {
+.custom-img-width img {
     max-width: 80%;
 }
 
