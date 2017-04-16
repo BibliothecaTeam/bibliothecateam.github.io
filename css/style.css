@@ -124,6 +124,17 @@
 
 .highlight { background-color: #f8f8f8; }
 
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #606c71;
+}
+
+.auto-width {
+    width: auto;
+}
+
 .container img {
     max-width: 80%;
     padding-bottom: 30px;
