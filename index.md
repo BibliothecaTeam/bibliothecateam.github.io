@@ -1,5 +1,4 @@
-﻿
-Bibliothēca is a web application which can show Markdown files as a html pages. Users can create projects and send documentation files by provided API. Application renders that files as a normal web page. Bibliothēca provides a set of functionalities and features such as:
+﻿Bibliothēca is a web application which can show Markdown files as a html pages. Users can create projects and send documentation files by provided API. Application renders that files as a normal web page. Bibliothēca provides a set of functionalities and features such as:
 
  - **powerfull API** for each system functionality
  - **Single Page Application (SPA)** created in Angular 4

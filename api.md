@@ -1,2 +1,3 @@
-{: .bg-info}
-Site is under development.
+## API
+
+You can find API description [here](/api/index.html).
